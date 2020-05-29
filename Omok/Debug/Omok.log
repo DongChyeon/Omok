@@ -1,0 +1,4 @@
+﻿  Omok.c
+C:\Users\Donghyeon Kim\source\repos\Omok\Omok\Omok.c(189,20): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\Donghyeon Kim\source\repos\Omok\Omok\Omok.c(173,9): warning C4101: 'limit_time' :참조되지 않은 지역 변수입니다.
+  Omok.vcxproj -> C:\Users\Donghyeon Kim\source\repos\Omok\Debug\Omok.exe
